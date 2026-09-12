@@ -4,9 +4,7 @@
 
 Jaya Jaya Institut merupakan institusi pendidikan tinggi yang menghadapi permasalahan mahasiswa yang tidak menyelesaikan pendidikan atau dropout.
 
-Proyek ini menggunakan pendekatan data science untuk memahami karakteristik mahasiswa berdasarkan data pendaftaran, demografi, kondisi sosial-ekonomi, dan performa akademik semester pertama serta kedua. Selain analisis data dan dashboard, proyek menyediakan model machine learning yang dapat membantu memprediksi status mahasiswa.
-
-> Catatan metodologis: karena dataset menyediakan performa akademik semester 1 dan 2, model ini memprediksi status berdasarkan data hingga semester kedua. Model tidak diposisikan sebagai early warning sebelum mahasiswa memulai perkuliahan.
+Proyek ini bertujuan untuk memahami karakteristik mahasiswa berdasarkan data pendaftaran, demografi, kondisi sosial-ekonomi, dan performa akademik semester pertama serta kedua. Selain analisis data dan dashboard, proyek menyediakan model machine learning yang dapat membantu memprediksi status mahasiswa.
 
 ### Permasalahan Bisnis
 
