@@ -109,7 +109,7 @@ Setelah perintah dijalankan, buka alamat lokal yang ditampilkan Streamlit pada t
 
 **Prototype yang telah di-deploy:**
 
-https://prediksi-risiko-dropout-mahasiswa-jaya-jaya-institut.streamlit.app
+https://prediksi-risiko-dropout.streamlit.app/
 
 ## Conclusion
 
